@@ -1,0 +1,15 @@
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.csproj.AssemblyReference.cache
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.AssemblyInfoInputs.cache
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.AssemblyInfo.cs
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.csproj.CoreCompileInputs.cache
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\bin\Debug\net6.0\n_1.exe
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\bin\Debug\net6.0\n_1.deps.json
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\bin\Debug\net6.0\n_1.runtimeconfig.json
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\bin\Debug\net6.0\n_1.dll
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\bin\Debug\net6.0\n_1.pdb
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.dll
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\refint\n_1.dll
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.pdb
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\n_1.genruntimeconfig.cache
+C:\Users\batal\Desktop\sharp_lessons\sem_4\hw_4\n_1\obj\Debug\net6.0\ref\n_1.dll
